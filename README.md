@@ -6,7 +6,7 @@
 ssh-keygen -t rsa -C "your_email@example.com"
 ```
 
-将生成的两个文件：id_rsa和id_rsa.pub 保存到 `~/.ssh/id_rsa`。
+将生成的两个文件：id_rsa和id_rsa.pub 保存到 `~/.ssh/`。
 
 之后会要求你输入密码,密码可以为空回车。
 
